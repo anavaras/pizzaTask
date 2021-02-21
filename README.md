@@ -1,5 +1,17 @@
 # pizzatask
 
+# Description
+```
+This is a small application to see all the placed orders and see the order details
+```
+
+# Tools used
+```
+Vuetify has been used for data table
+```
+
+# Follow the Steps to run the application
+
 ## Project setup
 ```
 npm install
@@ -10,15 +22,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
