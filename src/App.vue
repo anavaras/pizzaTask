@@ -2,21 +2,14 @@
   <v-app>
     <v-main>
       <router-view />
-
-      <!-- <orders :orders="orders" /> -->
     </v-main>
   </v-app>
 </template>
 
 <script>
-// import orders from "./components/orders";
 
 export default {
   name: "App",
-  // data: function() {
-  //   return {
-
-  // },
   data: () => ({
     name: "today Order",
     orders: [
